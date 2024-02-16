@@ -2,7 +2,11 @@
 
 This project is on Nigeria economy from the year 1990 to 2023 
 Get the dataset from [kaggle](https://www.kaggle.com/datasets/ogbuzurukelechi/nigeria-economy-growth-1990-2023)
-Validate the Dataset and add new column to the dataset, President column that contain the President for each year in my dataset.
+Validate the Dataset and add new column to the dataset, President column that contain the President for each year in my dataset using Excel.
+
+# The project is all about how each specific aspect of the Nigerian economy performed throughout the past decades, examining the contributions of each President/Head of State, we also forecast future trends based on past events.
+
+ To read more about this project check my [medium](https://medium.com/@harwofe16/1990-2023-nigeria-economy-analysis-and-forecasting-1809942a41b2)
 
 ## Introduction to the Nigeria Economy Dataset
 The Nigeria Economy dataset spans from 1990 to 2023 and comprises 11 columns. Each column represents a specific aspect of the Nigerian economy. Here’s a brief overview of the columns:
